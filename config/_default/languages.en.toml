@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Lzzz's Blog"
 
 [params]
   displayName = "EN"
@@ -20,7 +20,7 @@ title = "Blowfish"
    image = "https://avatars.githubusercontent.com/u/58145495?v=4"
    imageQuality = 96
    headline = "Intern @Appier | CS @NCCU"
-   bio = "1231231"
+   bio = "Fake it till you make it."
    links = [
 #     { email = "zhenyuliu0825@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
