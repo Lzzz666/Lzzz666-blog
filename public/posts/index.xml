@@ -9,22 +9,22 @@
     <managingEditor>zhenyuliu0825@gmail.com (Kevin Liu)</managingEditor>
     <webMaster>zhenyuliu0825@gmail.com (Kevin Liu)</webMaster>
     <copyright>© 2025 Kevin Liu</copyright>
-    <lastBuildDate>Thu, 02 Oct 2025 15:54:22 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Oct 2025 23:38:32 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Buddy</title>
-      <link>http://localhost:1313/posts/birdy/</link>
-      <pubDate>Thu, 02 Oct 2025 15:54:22 +0800</pubDate>
+      <link>http://localhost:1313/posts/buddy/</link>
+      <pubDate>Thu, 02 Oct 2025 23:38:32 +0800</pubDate>
       <author>zhenyuliu0825@gmail.com (Kevin Liu)</author>
-      <guid>http://localhost:1313/posts/birdy/</guid>
+      <guid>http://localhost:1313/posts/buddy/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/birdy/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/buddy/featured.png" />
     </item>
     
     <item>
       <title>Daoyou</title>
       <link>http://localhost:1313/posts/daoyou/</link>
-      <pubDate>Thu, 02 Oct 2025 15:54:22 +0800</pubDate>
+      <pubDate>Thu, 02 Oct 2025 23:37:13 +0800</pubDate>
       <author>zhenyuliu0825@gmail.com (Kevin Liu)</author>
       <guid>http://localhost:1313/posts/daoyou/</guid>
       <description></description>
