@@ -1,10 +1,10 @@
 +++
 date = '2025-10-02T15:54:22+08:00'
 draft = false
-title = 'My Second Post'
+title = 'Buddy'
 +++
 ## Introduction
 
-This is Test post
+He is Buddy!
 
-Nice to meet u!
+So cute!

@@ -1,0 +1,35 @@
+/* Dynamic animated gradient background - loaded after theme CSS */
+html, body {
+  min-height: 100%;
+}
+
+/* Site-wide animated gradient background */
+body {
+  background: linear-gradient(-45deg, #64748b, #4c5d75, #324259, #2f4568, #1d2f5a);
+  background-size: 400% 400%;
+  animation: gradientShift 20s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Optional: add a subtle overlay for readability */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.08);
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Respect dark mode by slightly increasing overlay in dark */
+[data-default-appearance="dark"] body::before,
+html.dark body::before {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+
